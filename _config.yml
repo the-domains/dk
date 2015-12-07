@@ -1,0 +1,28 @@
+name: dk
+favicon: null
+layout_spectrum: 0.042291831923648715
+typography_spectrum: 0.6465415577404201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.057246781187132
+  lightness: 0.0485514011234045
+  saturation: 0.954646217636764
+  rhythmicContrast: 0.07020816393196583
+purpose: []
